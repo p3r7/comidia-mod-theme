@@ -3,5 +3,5 @@ An deftheme port of the popular emacs theme, comidia, with some additionnal twee
 
 ## Tweaks
  - made compatible with emacs run inside a terminal
- - menubar style inspired by cyberpunk-theme
+ - menubar style inspired by [cyberpunk-theme.el](https://github.com/n3mo/cyberpunk-theme.el)
  - better looking hl-line
